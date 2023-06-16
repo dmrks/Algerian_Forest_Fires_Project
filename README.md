@@ -1,4 +1,4 @@
-# Algerian_Forest_Fires_Project
+# AlgerianForestFires_Project
 
 Algerian Forest Fires
 In this project, you’ll examine the forests dataset that includes variables on weather and fire risk for locations in Algerian forests from two different regions. By plotting and running multiple linear regressions, you’ll explore the relationships among variables including:

@@ -73,7 +73,7 @@ Let’s visualize our model results on the scatter plot from step 7 by adding li
 Do these lines seem to fit the data better than two parallel lines (i.e., lines with the same slope)?
 
 
-#Predicting FFMC: Polynomial
+# Predicting FFMC: Polynomial
 
 12.
 Now, let’s try predicting FFMC from just relative humidity. First, let’s get an idea of what the relationship looks like in a scatter plot of FFMC on the y-axis and relative humidity on the x-axis. Make sure to show, then clear the plot.
